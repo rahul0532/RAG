@@ -46,4 +46,7 @@ To set up the project locally, follow these steps:
 - `TextLoader` (Loading and processing text documents)
 - Any additional dependencies listed in `requirements.txt`
 
+## Sample output
+Question: What are the applications of RAG?
+Answer: Information Retrieval, Document Summarization, and Chatbots.
 
