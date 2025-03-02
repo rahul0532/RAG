@@ -48,5 +48,6 @@ To set up the project locally, follow these steps:
 
 ## Sample output
 Question: What are the applications of RAG?
+
 Answer: Information Retrieval, Document Summarization, and Chatbots.
 
