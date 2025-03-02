@@ -1,4 +1,3 @@
-# RAG
 # RAG (Retrieval-Augmented Generation) Project
 
 ## Overview
