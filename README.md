@@ -36,9 +36,14 @@ To set up the project locally, follow these steps:
 ## Requirements
 - Python 3.x
 - Jupyter Notebook
-- Transformers library
-- FAISS (if using vector-based retrieval)
+- `os` (built-in Python module for file handling)
+- `Chroma` (Vector database for efficient retrieval)
+- `HuggingFaceEmbeddings` (Embeddings from Hugging Face)
+- `HuggingFaceHub` (Integration with Hugging Face models)
+- `PromptTemplate` (For structuring prompts in RAG pipelines)
+- `RecursiveCharacterTextSplitter` (Splitting text for chunk-based retrieval)
+- `RetrievalQA` (Implementation of Retrieval-Augmented Generation)
+- `TextLoader` (Loading and processing text documents)
 - Any additional dependencies listed in `requirements.txt`
 
-## Contributing
-Contributions are welcome! Feel free to open issues or submit pull requests.
+
